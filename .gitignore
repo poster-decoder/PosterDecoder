@@ -1,0 +1,19 @@
+# source code
+app/
+*.gradle
+gradle*
+
+# IDE
+**/*.iml
+**/local.properties
+**/.idea
+**/captures
+**.externalNativeBuild
+
+# Build
+**/.gradle
+**/build
+**/libs
+
+# OS generated
+**/.DS_Store
